@@ -4,6 +4,7 @@ const nextConfig = {
   swcMinify: true,
   output: 'export',
   distDir: 'dist',
+  basePath: '/autohaus-klaus',
   images: {
     unoptimized: true,
   },
