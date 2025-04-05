@@ -15,7 +15,7 @@ export default function About() {
       <Header />
       
       <section className="hero" style={{ 
-        background: 'linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/images/about-bg.jpg")',
+        background: 'linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("images/about-bg.png")',
         backgroundSize: 'cover',
         backgroundPosition: 'center'
       }}>
