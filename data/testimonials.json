@@ -1,0 +1,59 @@
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Vlad D",
+      "role": "Mercedes-Benz E-Class Owner",
+      "image": "/images/testimonial-1.jpg",
+      "text": "Amazing service! Vadim is super knowledgeable and friendly. Very well versed in off-road vehicles. Upgraded the whole suspension on my 4Runner. Also gave me great suggestions on how the vehicle will behave under different conditions. Will return for any other mods or service.",
+      "rating": 5,
+      "date": "2022-03-15"
+    },
+    {
+      "id": "2",
+      "name": "Prashant Kumar",
+      "role": "Mercedes-Benz GLC Owner",
+      "image": "/images/testimonial-2.jpg",
+      "text": "This review is long overdue. Vadim has been helping me with my G300TD for quite sometime now. He is thoroughly knowledgeable and a pleasure to work with. He ensures to go out of his way to ensure that the work done properly, to factory quality and cognizant of intended use. I use my truck as a balanced daily driver and offroad travel rig. He understands the balance very well and my rig is setup and serviced beautifully.\n Furthermore, he is also transparent about stuff that he can and should do vs. things I can do myself, so that I can learn and save some cash.\n All in all an A+ garage.",
+      "rating": 5,
+      "date": "2024-02-28"
+    },
+    {
+      "id": "3",
+      "name": "A S",
+      "role": "Mercedes-Benz S-Class Owner",
+      "image": "/images/testimonial-3.jpg",
+      "text": "Vadim has been taking great care of my primary car. He is keeping it in a top shape. I trust him and recently took my non-Mercedes car to his shop, since I suspected there was a problem and the dealer service could not identify the issue. Vadim did a very thorough inspection and then did research on the car brand and particular model and year and pointed out multiple issues owners had with the engine during that year. His recommendation was that the lifetime of the car was limited and while he could repair it, I would be better off getting another car, considering costs of upcoming repairs vs the cost of getting another car. I followed his recommendation and if anyone has car issues that require a top expert, especially on European brands, I always recommend Vadim.",
+      "rating": 5,
+      "date": "2024-02-15"
+    },
+    {
+      "id": "4",
+      "name": "Ben Martinez",
+      "role": "Mercedes-Benz C-Class Owner",
+      "image": "/images/testimonial-4.jpg",
+      "text": "Called Vadim on a \"E\" service on my 2007 CLS63 and i was in shock!  Dealership quoted me $2,700.00 and Vadims quote was only $1,800.00...  He found a few other issues with the car, called for my approval and had the car completed before the end of the day!  I along with my wife and mother in law, will be taking out european cars there from here on it!  Super impressed with the customer service and the clear communication!  If i could give more stars, i would!  You got a client for life!  thanks again!",
+      "rating": 5,
+      "date": "2024-01-30"
+    },
+    {
+      "id": "5",
+      "name": "Yurii Chukhrai",
+      "role": "Mercedes-Benz AMG Owner",
+      "image": "/images/testimonial-5.jpg",
+      "text": "I was extremely satisfied with how they treated my 4 weels pet (Audi A5 coupe, 2013). They found a couple of major issues with steering; axles; control arms, I heard the noise, but the reality was even worse (steering stirring mounts were completely broken). And additional thank you for the oil change, I have no idea what they did (maybe they used magic expensive oil or they wash up the engine totally from old oil), but even after 2.5k miles, the engine works very nicely, as oil changed 5 minutes ago. I feel improvements in engine compression and his work.",
+      "rating": 5,
+      "date": "2024-01-15"
+    },
+    {
+      "id": "6",
+      "name": "Liza Shchegrov",
+        "role": "Mercedes-Benz AMG Owner",
+        "image": "/images/testimonial-6.jpg",
+        "text": "I brought in a car with a/c issues, Vadim took amazing care of the car and worked efficiently to get it back to me soon. He also let me know that I had been previously scammed out of an oil change and went ahead and changed it for me even though it was not part of the issue I told him about. Amazing business would definitely recommend!",
+        "rating": 5,
+        "date": "2024-01-15"
+    }
+
+  ]
+} 
