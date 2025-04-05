@@ -15,7 +15,7 @@ export default function Services() {
       <Header />
       
       <section className="hero" style={{ 
-        background: 'linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/images/services-bg.jpg")',
+        background: 'linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("images/services-bg.png")',
         backgroundSize: 'cover',
         backgroundPosition: 'center'
       }}>
