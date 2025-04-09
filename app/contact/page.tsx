@@ -60,17 +60,6 @@ export default function Contact() {
         </div>
       </section>
       
-      <section className="map-section">
-        <iframe
-          src="YOUR_GOOGLE_MAPS_EMBED_URL"
-          width="100%"
-          height="450"
-          style={{ border: 0 }}
-          allowFullScreen
-          loading="lazy"
-          referrerPolicy="no-referrer-when-downgrade"
-        ></iframe>
-      </section>
       
       <CallbackButton />
       <Footer />
