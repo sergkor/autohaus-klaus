@@ -4,6 +4,7 @@ import React from 'react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Slideshow from '@/components/Slideshow';
+import CallbackButton from '@/components/CallbackButton';
 
 export default function Gallery() {
   // Get all PNG images from the public/images folder
@@ -65,6 +66,7 @@ export default function Gallery() {
         </div>
       </section>
       
+      <CallbackButton />
       <Footer />
       
       <style jsx>{`

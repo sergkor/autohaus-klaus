@@ -1,13 +1,10 @@
+'use client';
+
 import React from 'react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import CallbackForm from '@/components/CallbackForm';
+import CallbackButton from '@/components/CallbackButton';
 import Link from 'next/link';
-
-export const metadata = {
-  title: 'About Us | Autohaus Klaus - Mercedes Specialist',
-  description: 'Learn about Autohaus Klaus - family owned Mercedes-Benz specialist in Redwood City with over 30 years of experience in European auto repair.',
-};
 
 export default function About() {
   return (
@@ -162,7 +159,7 @@ export default function About() {
         </div>
       </section>
 
-      <CallbackForm />
+      <CallbackButton />
       
       <Footer />
     </>

@@ -1,15 +1,14 @@
-import React from 'react';
+'use client';
+
+import React, { useState } from 'react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import CallbackForm from '@/components/CallbackForm';
+import CallbackButton from '@/components/CallbackButton';
 import Link from 'next/link';
 
-export const metadata = {
-  title: 'Services | Autohaus Klaus - Mercedes Specialist',
-  description: 'Professional Mercedes-Benz repair and maintenance services in Redwood City. Dealer-level diagnostics with better pricing and faster service.',
-};
-
 export default function Services() {
+  const [isFormOpen, setIsFormOpen] = useState(false);
+
   return (
     <>
       <Header />
@@ -160,7 +159,7 @@ export default function Services() {
         </div>
       </section>
 
-      <CallbackForm />
+      <CallbackButton />
       
       <Footer />
     </>

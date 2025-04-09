@@ -1,14 +1,11 @@
+'use client';
+
 import React from 'react';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import CallbackForm from '@/components/CallbackForm';
+import CallbackButton from '@/components/CallbackButton';
 import Link from 'next/link';
 import Image from 'next/image';
-
-export const metadata = {
-  title: 'Autohaus Klaus | Mercedes Specialist in Redwood City',
-  description: 'Specialist Mercedes-Benz auto repair in Redwood City. European car specialists offering dealer-level diagnostics, better pricing, and faster service.',
-};
 
 export default function Home() {
   return (
@@ -82,7 +79,7 @@ export default function Home() {
         </div>
       </section>
 
-      <CallbackForm />
+      <CallbackButton />
 
       <section className="testimonials-preview">
         <h2>What Our Customers Say</h2>
@@ -138,6 +135,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <CallbackButton />
 
       <Footer />
     </>

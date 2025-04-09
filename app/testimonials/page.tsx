@@ -5,6 +5,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import testimonialData from '@/data/testimonials.json';
 import { Testimonial } from '@/types/testimonial';
+import CallbackButton from '@/components/CallbackButton';
 
 export default function Testimonials() {
   const testimonials: Testimonial[] = testimonialData.testimonials;
@@ -67,6 +68,7 @@ export default function Testimonials() {
         </div>
       </section>
       
+      <CallbackButton />
       <Footer />
       
       <style jsx>{`
